@@ -1,2 +1,2 @@
 # DevclubHackfest
-Stuff built as part of DecClub Hackfest 
+Stuff built as part of DevClub Hackfest 
